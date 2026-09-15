@@ -1,6 +1,6 @@
 # Arkdown 下载与组件
 
-Arkdown 的公开下载仓库，由 ArkVibe，Inc. 维护。应用源码当前保持私有，之后再考虑开源。
+Arkdown 的公开下载仓库，由 ArkVibe 维护。
 
 ## 可选文档转换组件
 
