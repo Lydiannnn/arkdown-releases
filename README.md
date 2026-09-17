@@ -4,22 +4,26 @@
 
 Arkdown 是面向 Windows 的本地 Markdown 写作与知识库工具，包含深浅主题、Arknote 桌面便签、AI 文档对话以及划词、截图和悬浮翻译。
 
-## 下载 Arkdown 1.0.0
+## 下载 Arkdown 1.0.1
 
-Arkdown 1.0.0 已发布，提供 Full 完整版与 Lite 轻量版。
+Arkdown 1.0.1 已发布，提供 Full 完整版与 Lite 轻量版。
 
 Windows x64，解压后运行 `Arkdown.exe`；独立便签使用 `Arknote.exe`。
 
 | 版本 | 下载大小 | 适合 |
 | --- | --- | --- |
-| [Full 完整版](https://github.com/Lydiannnn/arkdown-releases/releases/download/v1.0.0/Arkdown-1.0.0-Full-Windows-x64.zip) | 759.8 MB | 一次下载，内置全部可选组件 |
-| [Lite 轻量版](https://github.com/Lydiannnn/arkdown-releases/releases/download/v1.0.0/Arkdown-1.0.0-Lite-Windows-x64.zip) | 259.4 MB | 内置编辑器与便签，其他组件按需下载 |
+| [Full 完整版](https://github.com/Lydiannnn/arkdown-releases/releases/download/v1.0.1/Arkdown-1.0.1-Full-Windows-x64.zip) | 775.9 MB | 一次下载，内置全部可选组件 |
+| [Lite 轻量版](https://github.com/Lydiannnn/arkdown-releases/releases/download/v1.0.1/Arkdown-1.0.1-Lite-Windows-x64.zip) | 266.0 MB | 内置编辑器与便签，其他组件按需下载 |
 
-[版本说明与 SHA-256 校验文件](https://github.com/Lydiannnn/arkdown-releases/releases/tag/v1.0.0)
+[版本说明与 SHA-256 校验文件](https://github.com/Lydiannnn/arkdown-releases/releases/tag/v1.0.1)
 
-[中文使用说明](https://github.com/Lydiannnn/arkdown-releases/releases/download/v1.0.0/README-zh-CN.md)
+[中文使用说明](https://github.com/Lydiannnn/arkdown-releases/releases/download/v1.0.1/README-zh-CN.md)
 
 两版均包含字体、品牌资源、使用说明书与 11 篇初始工作区文章及插图。Full 解压后约 1.91 GB，Lite 约 618 MB；Lite 安装可选组件后会增加本地占用。以上大小采用十进制单位。
+
+## 从旧版升级
+
+先退出 Arkdown 和托盘 Arknote，备份旧目录，再完整替换程序文件与资源。保留 `portable-data`、`temp`、自己的文档和附件；`temp` 可能含未保存草稿，不能清空。Full 用户继续使用 Full 包覆盖升级。详细步骤见中文使用说明。
 
 ## Full 与 Lite
 
